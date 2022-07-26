@@ -20,13 +20,13 @@ Practicing flexbox and responsive design.
 
 ### Screenshot
 
-![](./screenshot.JPGscreenshot.jpg)
+![](./screenshot.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/HeatherAeon/qr-code-component)
-- Live Site URL: [Add live site URL here](https://heatheraeon.github.io/qr-code-component/)
+- Solution URL: [https://github.com/HeatherAeon/qr-code-component]
+- Live Site URL: [https://heatheraeon.github.io/qr-code-component/]
 
 ## My process
 
