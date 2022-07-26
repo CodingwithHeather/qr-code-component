@@ -20,12 +20,12 @@ Practicing flexbox and responsive design.
 
 ### Screenshot
 
-![](screenshot.jpg)
+![](./screenshot.JPGscreenshot.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/HeatherAeon/qr-code-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -48,7 +48,7 @@ More Flexbox practice and centering of items.. I felt like I coded this with min
 I really struggle with sizing.. when to use em/rem/px etc.. I also want to re-code this with a css framework at some point soon..
 
 ## Author
-- Frontend Mentor - [@yourusername](https://github.com/HeatherAeon)
+- Frontend Mentor - [@HeatherAeon](https://github.com/HeatherAeon)
 
 
 
